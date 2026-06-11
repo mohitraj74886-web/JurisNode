@@ -1,0 +1,7 @@
+numpy
+torch
+matplotlib
+networkx
+fastapi
+pydantic
+uvicorn

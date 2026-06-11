@@ -1,0 +1,29 @@
+{
+  "saved_at": "2026-06-11T11:54:36.838786",
+  "n_cases": 420,
+  "n_statutes": 7404,
+  "n_courts": 33,
+  "n_judges": 139,
+  "test_metrics": {
+    "NDCG@5": 0.021030991785715252,
+    "NDCG@10": 0.021030991785715252,
+    "NDCG@20": 0.04536630696854406,
+    "MRR@5": 0.016666666666666666,
+    "MRR@10": 0.016666666666666666,
+    "MRR@20": 0.022824074074074073,
+    "HR@5": 0.03333333333333333,
+    "HR@10": 0.03333333333333333,
+    "HR@20": 0.13333333333333333
+  },
+  "files": [
+    "cases.json",
+    "graph.pt",
+    "embeddings.npz",
+    "metrics.json",
+    "best_legal_han.pt",
+    "indexes.json",
+    "plots/citation_graph.png",
+    "plots/recommendations.png",
+    "plots/training_curves.png"
+  ]
+}
