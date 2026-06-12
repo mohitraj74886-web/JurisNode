@@ -5,3 +5,4 @@ networkx
 fastapi
 pydantic
 uvicorn
+torch_geometric
